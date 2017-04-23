@@ -1,0 +1,25 @@
+type project
+title
+    AlgebraProblemGenerator
+owners
+    shohamh
+authors 
+    shohamh
+projectUrl
+    https://github.com/shohamh/algebra-problem-generator
+iconUrl
+    https://raw.githubusercontent.com/shohamh/algebra-problem-generator/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/shohamh/algebra-problem-generator/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    algebra math fsharp
+summary
+    Algebra problem generator based on Microsoft Research's paper: https://www.cse.iitk.ac.in/users/cs365/2013/hw2/singh-gulwani-12_automatically-generating-algebra-problems.pdf
+description
+    see short description...
+
+
